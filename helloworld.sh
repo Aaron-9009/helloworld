@@ -2,7 +2,7 @@
 
 func(){
 
-echo "hello world"
+echo "hello world, I am just editing for the pre-lab"
 
 }
 
